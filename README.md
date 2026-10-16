@@ -2,6 +2,12 @@
 
 Automação em Python que acompanha **filmes, séries e jogos** que você quer ver/jogar e **avisa quando a estreia está chegando**, consultando as APIs REST do [TMDB](https://www.themoviedb.org/) (filmes e séries) e do [RAWG](https://rawg.io/) (jogos).
 
+## Integrantes
+
+| Nome | RM |
+| :--- | :--- |
+| Rodrigo Fernandes Serafim | 550816 |
+
 ## Problema que resolve
 
 Nunca mais perder a estreia de um filme, o novo episódio de uma série ou o lançamento de um jogo: você monta uma lista e o script, rodando todo dia, avisa no terminal quando a data estiver próxima.
